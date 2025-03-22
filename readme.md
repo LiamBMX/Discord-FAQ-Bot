@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # Discord FAQ Bot
 
 A configurable, open-source Discord bot that scrapes a website to build a comprehensive knowledge base and uses the Ollama API to provide support or answer FAQs in your Discord server.
