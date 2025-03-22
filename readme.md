@@ -2,7 +2,7 @@
 # Discord FAQ Bot
 
 A configurable, open-source Discord bot that scrapes a website to build a comprehensive knowledge base and uses the Ollama API to provide support or answer FAQs in your Discord server.
-### Note: The bot may have flaws in the responses, keep in mind is is ai so I reccomend using a ollama model that works best for your situation as responses may vary for each model
+###‼️Note: The bot may have flaws in the responses, keep in mind is is ai so I reccomend using a ollama model that works best for your situation as responses may vary for each model
 
 ## Features
 
