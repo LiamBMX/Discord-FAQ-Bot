@@ -110,6 +110,5 @@ You should see output confirming that the bot is logged in and that the website 
 ## Contributions
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
-```
 
 ---
