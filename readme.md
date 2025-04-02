@@ -28,7 +28,7 @@ A configurable, open-source Discord bot that scrapes a website to build a compre
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 - [Node.js](https://nodejs.org/en/) (v14 or later)
 - A Discord account
