@@ -40,8 +40,8 @@ A configurable, open-source Discord bot that scrapes a website to build a compre
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/discord-faq-bot.git
-   cd discord-faq-bot
+   git clone https://github.com/LiamBMX/FAQura.git
+   cd FAQura
    ```
 
 2. **Install Dependencies:**
